@@ -6,7 +6,7 @@ public class PlayerPane extends Pane {
 	
 	public PlayerPane(Player player){
 		playerState=player;
-		ImageView view = new ImageView("http://web.cs.sunyit.edu/~realemj/2016fall/char.png");
+		ImageView view = new ImageView("Mario.jpg");
 		view.setFitWidth(MapPane.TILE_WIDTH);
 		view.setFitHeight(MapPane.TILE_HEIGHT);
 		

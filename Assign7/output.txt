@@ -1,4 +1,4 @@
-http://google.comOUTPUT: 
-Number of characters10904
-Number of words: 307
-Number of lines: 6
+output.txtOUTPUT: 
+Number of characters88
+Number of words: 9
+Number of lines: 4

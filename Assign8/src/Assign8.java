@@ -12,7 +12,7 @@ public class Assign8 {
 		try{
 			//Creates a scanner to get the users preferred level
 			Scanner scan = new Scanner(System.in);
-			System.out.println("What level number do you want?");
+			System.out.println("What level number do you want to go to? (Default number: 1) ");
 			String levelName = scan.nextLine();
 			
 			//Scanner to open a Map.txt and creates an instance of Map

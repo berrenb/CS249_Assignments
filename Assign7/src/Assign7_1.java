@@ -16,7 +16,7 @@ public class Assign7_1 {
 		Scanner scan = new Scanner(System.in);
 		String input = "";
 		try{
-			System.out.println("Enter an expression: ");
+			System.out.println("Enter a mathmatical expression (Ex: 5+5=): ");
 			input = scan.nextLine(); 
 			double d = Calculator.eval(input);
 			System.out.println("Answer is " + d);

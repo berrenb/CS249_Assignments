@@ -13,12 +13,14 @@ public class Assign4_2 {
 	public static void main(String[] args) {
 		final int ROW = 10;
 		final int COL = 20;
+		//Creates a new static object
 		Scanner scan = new Scanner(System.in);
 		String input = "w";
 
-		
+		//Creates a 2D array
 		String [][] map = new String [ROW][COL];
-		
+
+		//Populates the array
 		for(int i = 0; i < ROW; i++){
 			for(int j = 0; j < COL; j++){
 				map[i][j]=".";
@@ -50,7 +52,7 @@ public class Assign4_2 {
 				System.out.println(" ");
 			}
 			
-			System.out.println("Enter action: ");
+			System.out.println("Enter w,a,s, or d to move the @ symbol. Type q to exit: ");
 			input = scan.nextLine();
 			
 			//Moves @ symbol up

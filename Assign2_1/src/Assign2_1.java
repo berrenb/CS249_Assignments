@@ -57,7 +57,7 @@ public class Assign2_1 {
 			x = ((e*d)-(b*f))/((a*d)-(b*c));
 			y = ((a*f)-(e*c))/((a*d)-(b*c));
 			//Results
-			System.out.println("Based on Cramer's rule, the value of x is " + x + "and the value of y is " + y);
+			System.out.println("Based on Cramer's rule, the value of x is " + x%.2f + "and the value of y is " + y%.2f);
 		}
 		
 }

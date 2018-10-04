@@ -21,9 +21,14 @@ public class Assign3_3 {
 		
 			convMeter = footToMeter(foot);	
 			convFoot = meterToFoot(meter);
-			
+
+			if (foot == 10.0){
+				System.out.printf("%2.1f\t%5.3f\t|\t%2.1f \t%5.3f",foot,convMeter,meter,convFoot);
+				System.out.println("");
+				break;
+			}
 			//Output results
-			System.out.printf("%2.1f\t%5.3f\t|\t%2.1f \t%5.3f",foot,convMeter,meter,convFoot);
+			System.out.printf("%2.1f\t\t%5.3f\t|\t%2.1f \t%5.3f",foot,convMeter,meter,convFoot);
 			System.out.println("");
 			
 			foot+=1.0;

@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c31585f4-0f35-4378-908b-0df94f41ac40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assign3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign4/Assign4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign5/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign5/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign5/Assign5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign6/Assign6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign7/Assign7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign8/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign8/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign8/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assign8/Assign8.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Assign3_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Assign3_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Assign3_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Assign3_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Assign3_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Assign3_3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Assign3_4.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Assign3_4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assign3_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assign3_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assign3_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assign3_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign4/bin/Assign4_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign4/bin/Assign4_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign4/bin/Assign4_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign4/bin/Assign4_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign4/src/Assign4_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign4/src/Assign4_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign5/bin/Assign5_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign5/bin/Assign5_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign5/bin/Assign5_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign5/bin/Assign5_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign5/bin/Circle2D.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign5/bin/Circle2D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign5/bin/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign5/bin/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign5/bin/Weapon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign5/bin/Weapon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign6/bin/Assign6_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign6/bin/Assign6_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign6/bin/Assign6_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign6/bin/Assign6_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign6/bin/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign6/bin/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign6/bin/Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign6/bin/Map.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign6/bin/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign6/bin/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign6/bin/Weapon.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign6/bin/Weapon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign6/src/Assign6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign6/src/Assign6_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign7/bin/Assign7_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7/bin/Assign7_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign7/bin/Assign7_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7/bin/Assign7_2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign7/bin/Calculator.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7/bin/Calculator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign7/bin/InvalidExpressionException.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7/bin/InvalidExpressionException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign7/bin/WordCountData.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7/bin/WordCountData.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign7/bin/WordCounter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7/bin/WordCounter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign7/output.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7/output.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign7/src/Assign7_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign7/src/Assign7_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign8/bin/Assign8.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign8/bin/Assign8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign8/bin/Drawable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign8/bin/Drawable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign8/bin/Loadable.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign8/bin/Loadable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign8/bin/Map.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign8/bin/Map.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign8/bin/Monster.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign8/bin/Monster.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign8/bin/Orc.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign8/bin/Orc.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign8/bin/Spider.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign8/bin/Spider.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Assign8/src/Assign8.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Assign8/src/Assign8.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/bin/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="725008010">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="36" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="36" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Assign3_1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#472#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Assign3_2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-350">
+              <folding>
+                <element signature="e#0#1156#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Assign3_3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Assign3_4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Assign3_3.java" />
+        <option value="$PROJECT_DIR$/src/Assign3_4.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="300" />
+    <option name="y" value="7" />
+    <option name="width" value="694" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Assign3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assign3" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Assign3" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Assign3" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538627940384" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assign2_1/.project" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Assign3_2">
+    <configuration name="Assign3_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assign3_2" />
+      <module name="Assign3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assign3_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assign3_3" />
+      <module name="Assign3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assign3_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assign3_4" />
+      <module name="Assign3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Assign3_3" />
+      <item itemvalue="Application.Assign3_4" />
+      <item itemvalue="Application.Assign3_2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Assign3_2" />
+        <item itemvalue="Application.Assign3_4" />
+        <item itemvalue="Application.Assign3_3" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c31585f4-0f35-4378-908b-0df94f41ac40" name="Default Changelist" comment="" />
+      <created>1538627644107</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1538627644107</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Assign3_1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assign3_4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assign3_3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Assign3_2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-350">
+          <folding>
+            <element signature="e#0#1156#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -24,7 +24,7 @@ public class Assign6_1 {
 		Scanner scan = new Scanner(System.in);
 		
 		while(!itemName.equals(exit)){
-			System.out.println("Enter an item name, weight and value");
+			System.out.println("Enter an item name, weight and value. Enter, None when done.");
 			itemName=scan.next();
 			
 			//Checks if the user inputs None to exit out of the loop
